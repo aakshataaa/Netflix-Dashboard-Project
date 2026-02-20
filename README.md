@@ -1,4 +1,5 @@
-🎬 Netflix Data Analytics Dashboard
+Netflix Data Analytics Dashboard
+
 Project Overview
 This project analyzes the Netflix Titles Dataset to uncover insights about content distribution, genre trends, ratings, and country-wise production using SQL and Tableau.
 The objective was to transform raw data into meaningful business insights through interactive visualization and KPI dashboards.
